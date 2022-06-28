@@ -1,0 +1,13 @@
+[package]
+name = "typedeaf"
+version = "0.0.0"
+authors = [ "NobodyAwesomer" ]
+edition = "2021"
+description = "Type / Trait utility library"
+repository = "https://github.com/nobodyawesomer/typedeaf"
+license = "MIT"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
